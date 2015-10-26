@@ -1,2 +1,2 @@
-project:hospitalmanage.c
-	cc hospitalmanage.c -o project
+pongo: pongmaster.c
+	cc pongmaster.c -lncurses -lmenu-o pongo
